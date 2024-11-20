@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { getItems } from '../_services/shopping-list-service'; // Adjust path as necessary
+import { getItems } from '../_services/shopping-list-service'; 
 import ItemList from './item-list';
 import NewItem from './new-item'; 
 import MealIdeas from './meal-ideas'; 
